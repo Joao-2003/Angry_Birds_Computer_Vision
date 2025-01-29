@@ -2,7 +2,7 @@
 
 [YouTube Video](https://www.youtube.com/)
 
-![Alt text](/resources/images/angry-birds-image.png?raw=true "angry-birds")
+![Alt text](/resources/images/imagem_2025-01-29_113849074.png?raw=true "angry-birds")
 
 ## Overview
 
