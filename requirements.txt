@@ -1,0 +1,6 @@
+cffi
+pycparser
+pygame
+pymunk
+opencv-python
+mediapipe
