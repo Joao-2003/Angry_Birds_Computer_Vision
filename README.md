@@ -2,6 +2,8 @@
 
 [YouTube Video](https://www.youtube.com/watch?v=B7G5JtCFepE&feature=youtu.be)
 
+![Alt text](/resources/images/angry-birds-image.png?raw=true "angry-birds")
+
 ## Overview
 
 Este é um jogo inspirado no Angry Birds, desenvolvido em Python, agora com suporte a controle por visão computacional e mouse. O jogo combina a mecânica clássica do Angry Birds com novas funcionalidades e controles modernos.
